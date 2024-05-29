@@ -6,7 +6,7 @@ fn verse_printer() {
     const NUM_DAYS: i32 = 12;
 
     const DAY_ARRAY: [&str; 12] = [ "first", "second", "third", "fourth", "fifth", "sixth", "seventh", "eigth", "ninth",
-                                 "tenth", "eleventh", "twelvth"];
+                                 "tenth", "eleventh", "twelfth"];
 
     const GIFT_ARRAY: [&str; 12] = [  "a partridge in a pear tree.",
                                         "two turtle doves,",
